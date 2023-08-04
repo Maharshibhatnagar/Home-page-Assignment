@@ -15,10 +15,7 @@ gsap
 images:-  
 
     
-![Uploading 2023-0![Uploading 2023-08-04.png…]()
-![Uploading 2023-08-04 (2).png…]()
-8-04 (2).png…]()
-![Uploading 2023-08-04 (1).png…]()
+
 
 ![2023-08-04](https://github.com/Maharshibhatnagar/Home-page-Assignment/assets/119435144/db8126f7-9164-4ddf-b13f-8b4780e0edce)
 
