@@ -1,5 +1,4 @@
-![2023-08-04 (1)](https://github.com/Maharshibhatnagar/Home-page-Assignment/assets/119435144/bfec5630-7b84-4933-8b69-04d80409be9f)
-![2023-08-04 (1)](https://github.com/Maharshibhatnagar/Home-page-Assignment/assets/119435144/cdfd5d60-2018-4dce-9a59-f609e95ec392)
+
 ![2023-08-04 (1)](https://github.com/Maharshibhatnagar/Home-page-Assignment/assets/119435144/c01a9dfd-6fff-4623-bdce-92eb82c61b33)
 ![2023-08-04](https://github.com/Maharshibhatnagar/Home-page-Assignment/assets/119435144/e3dd2113-7fe1-4828-9046-393fb3600baa)
 Home Page Assignment : Maharshi
